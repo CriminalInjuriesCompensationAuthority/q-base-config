@@ -4,7 +4,8 @@
   "description": "Base devDependencies and files for q modules",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node index.js && echo 1"
   },
   "repository": {
     "type": "git",
