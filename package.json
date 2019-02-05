@@ -1,0 +1,22 @@
+{
+  "name": "q-base-config",
+  "version": "0.1.0",
+  "description": "Base devDependencies and files for q modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CriminalInjuriesCompensationAuthority/q-base-config.git"
+  },
+  "author": "Criminal Injuries Compensation Authority",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CriminalInjuriesCompensationAuthority/q-base-config/issues"
+  },
+  "homepage": "https://github.com/CriminalInjuriesCompensationAuthority/q-base-config#readme",
+  "dependencies": {
+    "module-zero": "github:webstacker/module-zero"
+  }
+}
