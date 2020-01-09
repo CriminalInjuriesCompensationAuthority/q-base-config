@@ -3,17 +3,17 @@ const createModuleZero = require('module-zero');
 const m0 = createModuleZero({
     files: '**/*',
     devDependencies: {
-        "eslint": "^5.8.0",
-        "eslint-config-airbnb-base": "^13.1.0",
-        "eslint-config-prettier": "^3.1.0",
-        "eslint-plugin-import": "^2.14.0",
-        "eslint-plugin-jest": "^22.1.3",
-        "eslint-plugin-prettier": "^3.0.0",
-        "fs-extra": "^7.0.0",
-        "husky": "^1.3.1",
-        "jest": "^24.8.0",
-        "lint-staged": "^8.0.4",
-        "prettier": "^1.14.3"
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.0.0",
+        "eslint-config-prettier": "^6.9.0",
+        "eslint-plugin-import": "^2.19.1",
+        "eslint-plugin-jest": "^23.3.0",
+        "eslint-plugin-prettier": "^3.1.2",
+        "fs-extra": "^8.1.0",
+        "husky": "^4.0.3",
+        "jest": "^24.9.0",
+        "lint-staged": "^9.5.0",
+        "prettier": "^1.19.1"
     },
     blocks: {
         src: '**/*',
