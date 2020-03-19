@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/CriminalInjuriesCompensationAuthority/q-base-config#readme",
   "dependencies": {
-    "module-zero": "github:webstacker/module-zero#v0.6.1"
+    "module-zero": "github:webstacker/module-zero#v0.7.0"
   }
 }
