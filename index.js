@@ -11,7 +11,7 @@ const m0 = createModuleZero({
         "eslint-plugin-prettier": "^3.1.2",
         "fs-extra": "^8.1.0",
         "husky": "^4.0.3",
-        "jest": "^24.9.0",
+        "jest": "^26.6.3",
         "lint-staged": "^9.5.0",
         "prettier": "^1.19.1"
     },
