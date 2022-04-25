@@ -1,4 +1,5 @@
 const createModuleZero = require('module-zero');
+const path = require('path');
 
 console.log('vvvvvvvvvvvvvvvvvvvvvvv  base config vvvvvvvvvvvvvvvvvvvvvvvvvvvv');
 console.log({
