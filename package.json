@@ -1,6 +1,6 @@
 {
   "name": "q-base-config",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "description": "Base devDependencies and files for q modules",
   "main": "index.js",
   "scripts": {
